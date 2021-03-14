@@ -7,11 +7,11 @@ README = (CURRENT_PATH/"README.md").read_text()
 
 setup(
     name="derive_event_pm4py",
-    version="1.0.0",
+    version="1.0.1",
     description="It derives new events based on rules provided as inputs.",
     long_description=README,
     long_description_content_type="text/markdown",
-    url="https://github.com/ajap10/derive_event_pm4py",
+    url="https://github.com/ajayp10/derive_event_pm4py",
     author="Ajay Pandi",
     author_email="ajay.pandi@rwth-aachen.de",
     license="MIT",
